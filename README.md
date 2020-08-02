@@ -8,3 +8,4 @@
 The questions were
 
 1.Detect Capital (https://leetcode.com/problems/detect-capital/)
+2.Design Hashset (https://leetcode.com/problems/design-hashset/)
